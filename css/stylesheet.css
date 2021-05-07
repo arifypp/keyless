@@ -2949,4 +2949,5 @@ input:-internal-autofill-selected {
     background: #2a2e43;
     border-radius: 10px;
     margin-bottom: 20px;
+    height: 300px;
 }
